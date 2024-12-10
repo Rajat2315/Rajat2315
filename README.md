@@ -1,4 +1,3 @@
-Hi, I'm Rajat 👋<br/>
 <br/>🌟 Tech Enthusiast | 💻 Cybersecurity | ☁️ Cloud Technologies <br/>
 🚀 Building innovative solutions in AI, InfoSec and Automation<br/>
 
